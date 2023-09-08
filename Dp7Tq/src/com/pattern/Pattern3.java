@@ -1,4 +1,4 @@
-package com.loopassign;
+package com.pattern;
 
 public class Pattern3 {
 

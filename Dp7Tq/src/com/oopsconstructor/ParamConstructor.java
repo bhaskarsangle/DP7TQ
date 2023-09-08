@@ -1,4 +1,4 @@
-package com.oops;
+package com.oopsconstructor;
 
 class Student {
 
